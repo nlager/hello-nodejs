@@ -1,1 +1,2 @@
-console.log('Hello, World\n')
+// This is just a comment.
+console.log('Hello, World\n');
